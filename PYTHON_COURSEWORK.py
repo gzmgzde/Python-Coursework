@@ -1,9 +1,4 @@
 
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-# Any code taken from other sources is referenced within my code solution.
-# Student ID: w1945822   # Date: 21/11/2023
-
-
 count = 0
 progress = 0
 module_trailer = 0
